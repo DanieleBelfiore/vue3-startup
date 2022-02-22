@@ -2,6 +2,8 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cc7e4f3c-5e05-4288-9aed-4a5c6ab8538d/deploy-status)](https://app.netlify.com/sites/elated-villani-354d42/deploys)
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
